@@ -1,4 +1,4 @@
 createNamespace: true
 namespace: 
-  name: ${infra.kubernetes.namespace}
+  name: prometheus
   annotated: false
